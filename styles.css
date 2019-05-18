@@ -1,0 +1,88 @@
+body {
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+h2, h3 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: 1.2em;
+    font-weight: 1.5em;
+}
+
+span {
+    background-color: bisque;
+    box-shadow: 2px 3px 1px rgb(136, 131, 131);
+    padding: 5px 15px;
+}
+
+
+#HelloWorld {
+    background-color: black;
+    color: lavenderblush;
+}
+
+#intro {
+    font-weight: 0.5em;
+}
+
+#mainSection {
+    height: 100vh;
+    background-color: lavenderblush;
+    text-align: center;
+    padding-top: 10%;
+}
+
+img {
+    border-radius: 15px;
+    box-shadow: 2px 3px 1px rgb(136, 131, 131);
+    text-align: center;
+}
+
+#secondSection #lastSection {
+    height: 100vh;
+}
+
+#secondSection {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    
+}
+
+#orderlist {
+    list-style-position: inside
+}
+
+#lastSection {
+    background-color: rgb(48, 45, 45);
+    text-align: center;
+    padding: 20px;
+}
+
+ul#horizontalList li {
+    display: inline;
+}
+
+#horizontalList {
+    padding: 0;
+    margin: 0;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+   
